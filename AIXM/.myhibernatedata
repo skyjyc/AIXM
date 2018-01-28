@@ -1,0 +1,21 @@
+#MyEclipse Hibernate Properties
+#Thu Aug 31 13:21:45 CST 2017
+genBasicCompId=false
+sessionFactoryName=com.aixm.sessionFactory.HibernateSessionFactory
+profile=
+daoSFId=
+jndiPath=
+detectM2M=false
+reStrategyClass=
+detectO2O=false
+springDaoFile=
+useJavaTypes=false
+keyGenerator=
+genVersionTag=false
+sessionFactoryId=
+basePersistenceClass=
+genAnnotations=false
+reSettingsFile=
+configFile=/AIXM/src/hibernate.cfg.xml
+createConfigFile=true
+baseDaoClass=com.aixm.bean.BaseHibernateDAO
